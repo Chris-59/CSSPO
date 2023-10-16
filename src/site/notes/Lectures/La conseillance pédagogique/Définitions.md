@@ -1,0 +1,18 @@
+
+[[Chapitre 9]]
+#définition
+
+| Terme                | Signification                                                                                                                                                                                                                              |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| communication        | Mettre en commun ou partager                                                                                                                                                                                                               |
+| communication/courageuse  | Remettre en question les pratiques actuelles et encourager l'innovation au moyen de conversations                                                                                                                                              |
+| communication/relationnelle  | Dimension de la communication allant au-delà du contenu du message, désignant notamment l'influence réciproque et simultanée exercée par les personnes en présence                                                                                                           |
+| communication/interpersonnelle  | Englobe tous les comportements, les indices ou les symboles ayant valeur de message pour autrui                                                                                                                                               |
+| toctoc               | Procédé qui prépare l'autre à recevoir une information, où le CP sollicite la permission de fournir son point de vue                                                                                                                       |
+| synchronisation      | Faculté qui permet naturellement de s'adapter à autrui, rassurant l'autre sur la capacité de la personne à communiquer avec lui                                                                                                             |
+| intention             | Ce que le CP veut vraiment pour lui-même, pour l'autre et pour la relation                                                                                                                                                                 |
+| attention            | Énergie pure centrée sur une même tâche afin de rester focalisé                                                                                                                                                                            |
+| faits                | Description claire, objective et neutre des événements sans généralisations                                                                                                                                                                |
+| émotions             | Indicateurs de l'état de satisfaction des besoins, des valeurs et des aspirations d'une personne                                                                                                                                          |
+| besoins professionnels   | Besoins non satisfaits derrière chaque émotion dans le contexte professionnel                                                                                                                                                             |
+| demande              | Demande concrète, positive, réaliste, réalisable, ouverte, négociable et consciente axée sur l'intention de départ                                                                                                                       |

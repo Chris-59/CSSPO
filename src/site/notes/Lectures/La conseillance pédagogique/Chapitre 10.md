@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/la-conseillance-pedagogique/chapitre-10/"}
+dg-publish: true
 ---
-
 # Chapitre 10
 
 **Un modèle d'accompagnement du développement professionnel : une ressource essentielle de l'agir compétent**
@@ -24,7 +23,7 @@ C'est par la conscientisation de son modèle d'accompagnement, qu'un accompagnat
 ___
 ## Un modèle d'accompagnement du développement professionnel
 
-Dans cette section, présentation d'un [[Lectures/La conseillance pédagogique/Modèle d'accompagnement\|Modèle d'accompagnement]] développé dans le cadre d'une recherche-action sur la différenciation pédagogique ayant eu cours dans 10 CSS de la Montérégie entre 2004 et 2009 (Guay *et al.*, 2007 ; Guay et Gagnon, 2009).
+Dans cette section, présentation d'un [[Modèle d'accompagnement]] développé dans le cadre d'une recherche-action sur la différenciation pédagogique ayant eu cours dans 10 CSS de la Montérégie entre 2004 et 2009 (Guay *et al.*, 2007 ; Guay et Gagnon, 2009).
 
 Modèle de 5 étapes : 
 1. La définition de la situation actuelle
@@ -48,7 +47,7 @@ ___
 
 *Accompagner*, c'est donc aider un sujet à faire ce qu'il veut faire, ou à besoin de faire, tout en apprenant. 
 
-**L'apprentissage est donc expérientiel** et tributaire de l'harmonisation des *différentes composantes interreliées d'une situation pédagogique*, communément résumées par l'acronyme [[Lectures/La conseillance pédagogique/SOMA (Legendre, 2005)\|SOMA (Legendre, 2005)]] (Legendre, 2005).
+**L'apprentissage est donc expérientiel** et tributaire de l'harmonisation des *différentes composantes interreliées d'une situation pédagogique*, communément résumées par l'acronyme [[SOMA (Legendre, 2005)]] (Legendre, 2005).
 #soma 
 
 S - *Sujet* : accompagné ou groupe d'accompagnés ayant le désir d'atteindre un objectif et se développer.
@@ -56,9 +55,9 @@ O - *Objet d'apprentissage* : compétence, connaissance, savoir, habileté, ou a
 M - *Milieu* : environnement où se déroule l'action et l'apprentissage (ex : culture pédagogique ou organisationnelle, ressources temporelles, matérielles, humaines...)
 A - *Agent* : accompagnateur ou groupe d'accompagnateurs soutenant le sujet dans son action et son développement
 
-![Pasted image 20231015144732.png](/img/user/666.%20Documents/Pasted%20image%2020231015144732.png)
+![[Pasted image 20231015144732.png]]
 
-[[Lectures/La conseillance pédagogique/5 caractéristiques fondamentales pour un accompagnement\|5 caractéristiques fondamentales pour un accompagnement]]
+[[5 caractéristiques fondamentales pour un accompagnement]]
 
 1. D'abord, un accompagnement trouve sa source dans un **besoin de sujet** (AC). En effet, parce qu'un apprentissage suppose un action finalisée du sujet. Un accompagnement se doit d'être ancré dans une demande de sa part.
 2. Un accompagnement suppose également une **relation égalitaire** de collaboration entre l'agent et le sujet.
@@ -77,11 +76,11 @@ ___
 
 ## Comment accompagner ?
 
-Le [[Lectures/La conseillance pédagogique/Modèle d'accompagnement\|Modèle d'accompagnement]] proposé est une démarche en 5 étapes, souples et propices à la coconstruction, actualisées en référence à toutes les composantes et les relations d'une situation pédagogiques.
+Le [[Modèle d'accompagnement]] proposé est une démarche en 5 étapes, souples et propices à la coconstruction, actualisées en référence à toutes les composantes et les relations d'une situation pédagogiques.
 
-![Pasted image 20231015152612.png](/img/user/666.%20Documents/Pasted%20image%2020231015152612.png)
+![[Pasted image 20231015152612.png]]
 ___
-### [[Lectures/La conseillance pédagogique/Définition de la situation actuelle\|Définition de la situation actuelle]] : Qu'est-ce qui va ? Qu'est-ce qui ne va pas ?
+### [[Définition de la situation actuelle]] : Qu'est-ce qui va ? Qu'est-ce qui ne va pas ?
 
 La première étape correspond à une définition de la situation actuelle *telle que relatée par le sujet.*
 
@@ -102,7 +101,7 @@ Ainsi, l'étape permet de mettre en lumière tout autant **les défis rencontré
 
 ___
 
-### [[Lectures/La conseillance pédagogique/Définition de la situation désirée\|Définition de la situation désirée]] : Que veux-tu faire ? Que veux-tu apprendre ?
+### [[Définition de la situation désirée]] : Que veux-tu faire ? Que veux-tu apprendre ?
 
 Cette étape suppose *le soutien du sujet dans le processus de définition de sa situation désirée*.
 À cette étape, le sujet identifie un **objectif**, c'est à dire qu'il veut faire et ce qu'il a besoin d'apprendre pour faire.
@@ -124,7 +123,7 @@ Questions à se poser :
 
 ___
 
-### [[Lectures/La conseillance pédagogique/Planification de l'action\|Planification de l'action]] : Que dois-tu prévoir et apprendre ce qui est important pour toi ?
+### [[Planification de l'action]] : Que dois-tu prévoir et apprendre ce qui est important pour toi ?
 
 La planification de l'action correspond au moment où **le sujet**, soutenu par l'agent, *conçoit et se prépare à mettre en œuvre des actions concrètes  pour atteindre son objectif.*
 
@@ -141,7 +140,7 @@ La planification de l'action correspond au moment où **le sujet**, soutenu par 
 
 ___
 
-### [[Lectures/La conseillance pédagogique/Action\|Action]] : Que fais-tu concrètement pour atteindre ton objectif et te développer professionnellement ?
+### [[Action]] : Que fais-tu concrètement pour atteindre ton objectif et te développer professionnellement ?
 
 L'action correspond à la **mise en œuvre** **des actions planifiées** permettant de *passer de la situation actuelle à la situation désirée*.
 
@@ -155,7 +154,7 @@ L'action correspond à la **mise en œuvre** **des actions planifiées** permett
 
 ___
 
-### [[Lectures/La conseillance pédagogique/Évaluation de l'action\|Évaluation de l'action]] : As-tu atteint ton objectif ou progressé vers cette atteinte ? Quels sont les impacts de tes actions sur ton DP ? Comment peux-tu en témoigner ? À qui souhaites-tu partager ce que tu as fait et appris ?
+### [[Évaluation de l'action]] : As-tu atteint ton objectif ou progressé vers cette atteinte ? Quels sont les impacts de tes actions sur ton DP ? Comment peux-tu en témoigner ? À qui souhaites-tu partager ce que tu as fait et appris ?
 
 *En cours et au terme d'un accompagnement*, il y a lieu d'**évaluer l'atteinte de l'objectif et les impacts de la démarche sur l'apprentissage du sujet**.
 
@@ -234,4 +233,5 @@ En conclusion, un modèle d'accompagnement est une représentation simplifiée d
 |Modèle en 5 étapes du développement professionnel|1. Définition de la situation actuelle<br>2. Définition de la situation désirée<br>3. Planification de l'action<br>4. Action<br>5. Évaluation|
 |L'accompagnement comme levier au développement professionnel| - Permet au sujet d'apprendre au cœur d'une action importante pour lui<br>- Favorise le développement professionnel|
 |Qualités nécessaires pour accompagner efficacement|- Présence <br> - Écoute profonde<br>- Expression claire et concise<br>- Flexibilité et bienveillance envers le sujet|
+
 
